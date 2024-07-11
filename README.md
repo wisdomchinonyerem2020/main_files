@@ -1,5 +1,4 @@
 # The_Metro_bar_and_Kitchen
-# Metro_Bar_and_Kitchen
 Project Overview
 This project aims to design and optimize an online restaurant ordering system for The Metro Bar and Kitchen, located on the University of Bedfordshire's Luton campus. The system is built using Laravel 9.0 and MySQL to provide a robust and efficient solution.
 
